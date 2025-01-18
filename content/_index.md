@@ -9,4 +9,6 @@ title = 'Rotunda'
 _Avaruusaseman arkea ja \
 avaruusmatkustuksen rikkomia ihmissuhteita_
 
+Ilmoittautuminen keväällä 2025.
+
 Ota yhteyttä: `japsu` & `merli__` (Discord)
