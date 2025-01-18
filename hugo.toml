@@ -2,3 +2,9 @@ baseURL = 'https://rotunda.space/'
 languageCode = 'fi-fi'
 title = 'Rotunda'
 theme = 'ananke'
+copyright = 'Santtu Pajukanta, Merli Juustila et al. Otsikkokuva: NASA/Rawpixel.'
+
+[params]
+body_classes = 'bg-black-90 lexend'
+text_color = 'washed-blue'
+custom_css = ['fonts.css']
