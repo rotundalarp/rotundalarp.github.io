@@ -40,6 +40,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   height: 100%;
 }
 
@@ -49,4 +50,8 @@ main {
 
 h1, h2, h3, h4, h5, h6, p {
   margin: 1rem;
+}
+
+footer {
+  font-size: 0.7rem;
 }
