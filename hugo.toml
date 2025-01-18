@@ -1,0 +1,4 @@
+baseURL = 'https://rotunda.space/'
+languageCode = 'fi-fi'
+title = 'Rotunda: Larppi avaruusmatkustuksen rikkomista ihmissuhteista'
+theme = 'ananke'
