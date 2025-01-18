@@ -2,7 +2,6 @@
 date: '2025-01-18T15:27:33+02:00'
 draft: false
 title: 'Rotunda'
-featured_image: '/images/image-from-rawpixel-id-441241-jpeg.jpg'
 ---
 ## 17.–19.10.2025
 ### Metsäpirtti, Tuusula
