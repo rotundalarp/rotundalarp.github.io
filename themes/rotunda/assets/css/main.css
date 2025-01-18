@@ -25,6 +25,28 @@
   src: url('/fonts/lexend-v23-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-.lexend {
+html {
   font-family: 'Lexend', 'sans-serif';
+  background-image: url(/images/image-from-rawpixel-id-441241-jpeg.jpg);
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: multiply;
+  color: rgb(240, 240, 255, 1.0);
+  font-size: 1.5rem;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+main {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 1rem;
 }

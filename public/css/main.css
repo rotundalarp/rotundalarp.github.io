@@ -1,22 +1,52 @@
+/* lexend-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 200;
+  src: url('/fonts/lexend-v23-latin-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lexend-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/lexend-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lexend-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/lexend-v23-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+html {
+  font-family: 'Lexend', 'sans-serif';
+  background-image: url(/images/image-from-rawpixel-id-441241-jpeg.jpg);
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: multiply;
+  color: rgb(240, 240, 255, 1.0);
+  font-size: 1.5rem;
+  height: 100%;
+}
+
 body {
-  color: #222;
-  font-family: sans-serif;
-  line-height: 1.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+main {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
   margin: 1rem;
-  max-width: 768px;
-}
-
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
-}
-
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
-}
-
-a {
-  color: #00e;
-  text-decoration: none;
 }
