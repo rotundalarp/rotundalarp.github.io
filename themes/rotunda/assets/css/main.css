@@ -29,6 +29,7 @@ html {
   font-family: 'Lexend', 'sans-serif';
   background-image: url(/images/image-from-rawpixel-id-441241-jpeg.jpg);
   background-position: center;
+  background-size: cover;
   background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: multiply;
   color: rgb(240, 240, 255, 1.0);
