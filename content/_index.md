@@ -1,14 +1,14 @@
 ---
-date: '2025-01-18T15:27:33+02:00'
+date: '2025-05-27T23:34:00+03:00'
 draft: false
 title: 'Rotunda'
 ---
-## 17.–19.10.2025
+## Alkuvuodesta 2026
 ### Metsäpirtti, Tuusula
 
 _Avaruusaseman arkea ja \
 avaruusmatkustuksen rikkomia ihmissuhteita_
 
-Ilmoittautuminen avautuu huhtikuun 2025 lopussa.
+Ilmoittautuminen avautuu loppuvuodesta 2025.
 
 Ota yhteyttä: `japsu` & `merli__` (Discord)
